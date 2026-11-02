@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.ui.CheckoutUiTest" tests="1">
+  <testcase classname="com.demo.ui.CheckoutUiTest" name="applyCouponUpdatesTotal" time="0.8"/>
+</testsuite>

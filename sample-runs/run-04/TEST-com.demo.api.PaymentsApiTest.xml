@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.api.PaymentsApiTest" tests="1">
+  <testcase classname="com.demo.api.PaymentsApiTest" name="createPayment" time="0.8"/>
+</testsuite>

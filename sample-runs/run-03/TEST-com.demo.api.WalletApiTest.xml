@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.api.WalletApiTest" tests="1">
+  <testcase classname="com.demo.api.WalletApiTest" name="topUpCreditsWallet" time="1.2"><failure type="java.net.SocketTimeoutException" message="Read timed out">java.net.SocketTimeoutException: Read timed out</failure></testcase>
+</testsuite>

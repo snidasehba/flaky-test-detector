@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.api.WalletApiTest" tests="1">
+  <testcase classname="com.demo.api.WalletApiTest" name="topUpCreditsWallet" time="0.8"/>
+</testsuite>

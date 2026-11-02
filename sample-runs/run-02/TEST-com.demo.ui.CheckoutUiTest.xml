@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.ui.CheckoutUiTest" tests="1">
+  <testcase classname="com.demo.ui.CheckoutUiTest" name="applyCouponUpdatesTotal" time="1.2"><failure type="org.openqa.selenium.StaleElementReferenceException" message="stale element reference: element is not attached to the page document">org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document</failure></testcase>
+</testsuite>

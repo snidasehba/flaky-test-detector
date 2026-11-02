@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.api.RefundApiTest" tests="1">
+  <testcase classname="com.demo.api.RefundApiTest" name="partialRefundReducesBalance" time="1.2"><failure type="java.lang.AssertionError" message="expected [6000] but found [10000]">java.lang.AssertionError: expected [6000] but found [10000]</failure></testcase>
+</testsuite>
